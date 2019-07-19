@@ -1,1 +1,2 @@
-# wso2-identity-server-book
+# WSO2 Identity Server
+
