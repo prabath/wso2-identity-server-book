@@ -7,6 +7,7 @@
 ### Chapter:3 Login to Salesforce via SAML 2.0
 ### Chapter:4 Login to Office 365 via WS-Federation
 
+
 ## Part:2 Identity Stores
 
 ### Chapter:5 Deploying Identity Server over OpenLDAP
@@ -15,10 +16,12 @@
 ### Chapter:8 Configuring multiple user stores
 ### Chapter:9 Managing claims
 
-## Part:2 Connectors
-## Part:3 Product Architecture
-## Part:4 Exteding the Product
-## Part:5 Deployment Patterns
+## Part:3 Identity APIs
+
+## Part:4 Connectors
+## Part:5 Product Architecture
+## Part:6 Exteding the Product
+## Part:7 Deployment Patterns
 
 ## Appendices
 
