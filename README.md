@@ -1,8 +1,9 @@
 # WSO2 Identity Server
 
-## Getting started with WSO2 Identity Server
-## Product Architecture
-## Extension Points
+## PART:1 Getting started with WSO2 Identity Server
+## PART:2 Connectors
+## PART:3 Product Architecture
+## PART:4 Exteding the Product
 
 ## APPENDIX-1: Identity & Access Management Overview
 ## APPENDIX-2: SAML 2.0
