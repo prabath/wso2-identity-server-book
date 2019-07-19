@@ -16,4 +16,5 @@
 ## APPENDIX-7: XACML
 ## APPENDIX-8: GDPR
 ## APPENDIX-9: eIDAS
-## APPENDIX-10: How to contribute?
+## APPENDIX-10: SCIM
+## APPENDIX-11: How to contribute?
