@@ -4,7 +4,7 @@
 ## PART:2 Connectors
 ## PART:3 Product Architecture
 ## PART:4 Exteding the Product
-## PART:5 Deployment Patterns & Best Practices
+## PART:5 Deployment Patterns
 
 ## APPENDIX-1: Identity & Access Management Overview
 ## APPENDIX-2: SAML 2.0
