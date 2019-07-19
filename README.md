@@ -1,4 +1,4 @@
-# WSO2 Identity Server
+# Mastering WSO2 Identity Server
 
 ## PART:1 Getting started with WSO2 Identity Server
 ## PART:2 Connectors
