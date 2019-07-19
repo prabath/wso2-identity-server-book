@@ -1,37 +1,37 @@
 # Mastering WSO2 Identity Server
 
-## PART:1 Getting started with WSO2 Identity Server
+## Part:1 Getting started with WSO2 Identity Server
 
-### CHAPTER:1 Overview
-### CHAPTER:2 Login to a Web Application via OpenID Connect
-### CHAPTER:3 Login to Salesforce via SAML 2.0
-### CHAPTER:4 Login to Office 365 via WS-Federation
+### Chapter:1 Overview
+### Chapter:2 Login to a Web Application via OpenID Connect
+### Chapter:3 Login to Salesforce via SAML 2.0
+### Chapter:4 Login to Office 365 via WS-Federation
 
-## PART:2 Identity Stores
+## Part:2 Identity Stores
 
-### CHAPTER:5 Deploying Identity Server over OpenLDAP
-### CHAPTER:6 Deploying Identity Server over Microsoft Active Directory
-### CHAPTER:7 Deploying Identity Server over a MySQL Database
-### CHAPTER:8 Configuring multiple user stores
-### CHAPTER:9 Managing claims
+### Chapter:5 Deploying Identity Server over OpenLDAP
+### Chapter:6 Deploying Identity Server over Microsoft Active Directory
+### Chapter:7 Deploying Identity Server over a MySQL Database
+### Chapter:8 Configuring multiple user stores
+### Chapter:9 Managing claims
 
-## PART:2 Connectors
-## PART:3 Product Architecture
-## PART:4 Exteding the Product
-## PART:5 Deployment Patterns
+## Part:2 Connectors
+## Part:3 Product Architecture
+## Part:4 Exteding the Product
+## Part:5 Deployment Patterns
 
-## APPENDIX-1: Identity & Access Management Overview
-## APPENDIX-2: SAML 2.0
-## APPENDIX-3: OAuth 2.0
-## APPENDIX-4: OAuth 2.0 profiles
-## APPENDIX-4: OpenID Connect
-## APPENDIX-5: WS-Federation
-## APPENDIX-6: CAS 
-## APPENDIX-7: XACML
-## APPENDIX-8: GDPR
-## APPENDIX-9: eIDAS
-## APPENDIX-10: SCIM
-## APPENDIX-11: Setting up OpenLDAP
-## APPENDIX-12: Setting up Microsoft Active Directory
-## APPENDIX-13: Setting up MySQL
-## APPENDIX-14: How to contribute?
+## Appendix-1: Identity & Access Management Overview
+## Appendix-2: SAML 2.0
+## Appendix-3: OAuth 2.0
+## Appendix-4: OAuth 2.0 profiles
+## Appendix-4: OpenID Connect
+## Appendix-5: WS-Federation
+## Appendix-6: CAS 
+## Appendix-7: XACML
+## Appendix-8: GDPR
+## Appendix-9: eIDAS
+## Appendix-10: SCIM
+## Appendix-11: Setting up OpenLDAP
+## Appendix-12: Setting up Microsoft Active Directory
+## Appendix-13: Setting up MySQL
+## Appendix-14: How to contribute?
