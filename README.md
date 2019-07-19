@@ -20,19 +20,21 @@
 ## Part:4 Exteding the Product
 ## Part:5 Deployment Patterns
 
-## Appendix-1: Identity & Access Management Overview
-## Appendix-2: SAML 2.0
-## Appendix-3: OAuth 2.0
-## Appendix-4: OAuth 2.0 profiles
-## Appendix-4: OpenID Connect
-## Appendix-5: WS-Federation
-## Appendix-6: CAS 
-## Appendix-7: XACML
-## Appendix-8: GDPR
-## Appendix-9: eIDAS
-## Appendix-10: SCIM
-## Appendix-11: UMA
-## Appendix-12: Setting up OpenLDAP
-## Appendix-13: Setting up Microsoft Active Directory
-## Appendix-14: Setting up MySQL
-## Appendix-15: How to contribute?
+## Appendices
+
+### Appendix-1: Identity & Access Management Overview
+### Appendix-2: SAML 2.0
+### Appendix-3: OAuth 2.0
+### Appendix-4: OAuth 2.0 profiles
+### Appendix-4: OpenID Connect
+### Appendix-5: WS-Federation
+### Appendix-6: CAS 
+### Appendix-7: XACML
+### Appendix-8: GDPR
+### Appendix-9: eIDAS
+### Appendix-10: SCIM
+### Appendix-11: UMA
+### Appendix-12: Setting up OpenLDAP
+### Appendix-13: Setting up Microsoft Active Directory
+### Appendix-14: Setting up MySQL
+### Appendix-15: How to contribute?
