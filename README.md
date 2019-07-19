@@ -25,10 +25,16 @@
 
 ## Part:4 Identity APIs
 
-## Part:5 Connectors
-## Part:6 Product Architecture
-## Part:7 Exteding the Product
-## Part:8 Deployment Patterns
+## Part:5 Accounts Management
+
+## Part:6 Connectors
+
+## Part:7 Product Architecture
+
+## Part:8 Exteding the Product
+
+## Part:9 Deployment Patterns
+
 
 ## Appendices
 
