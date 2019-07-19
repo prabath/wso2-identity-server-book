@@ -16,12 +16,19 @@
 ### Chapter:8 Configuring multiple user stores
 ### Chapter:9 Managing claims
 
-## Part:3 Identity APIs
+## Part:3 Provisioning
 
-## Part:4 Connectors
-## Part:5 Product Architecture
-## Part:6 Exteding the Product
-## Part:7 Deployment Patterns
+### Chapter:10 Provisioning users with SCIM
+### Chapter:11 Outbound provisioning to Salesforce
+### Chapter:13 Outbound provisioning to Google Apps
+### Chapter:14 Just-in-time provisioning
+
+## Part:4 Identity APIs
+
+## Part:5 Connectors
+## Part:6 Product Architecture
+## Part:7 Exteding the Product
+## Part:8 Deployment Patterns
 
 ## Appendices
 
