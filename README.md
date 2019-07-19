@@ -4,6 +4,7 @@
 ## PART:2 Connectors
 ## PART:3 Product Architecture
 ## PART:4 Exteding the Product
+## PART:5 Deployment Patterns & Best Practices
 
 ## APPENDIX-1: Identity & Access Management Overview
 ## APPENDIX-2: SAML 2.0
@@ -15,3 +16,4 @@
 ## APPENDIX-7: XACML
 ## APPENDIX-8: GDPR
 ## APPENDIX-9: eIDAS
+## APPENDIX-10: How to contribute?
